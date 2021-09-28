@@ -9,10 +9,8 @@ import Link from 'next/link';
 //   );
 // }
 
-export const apiEndpoint = 'https://tropics-theme-test.cdn.prismic.io/api/v2';
-// export const apiEndpoint =
-//   'https://slice-machine-test-tropics.cdn.prismic.io/api/v2';
-// export const apiEndpoint = "https://your-repo-name.cdn.prismic.io/api/v2";
+// export const apiEndpoint = 'https://tropics-theme-test.cdn.prismic.io/api/v2';
+export const apiEndpoint = 'https://your-repo-name.cdn.prismic.io/api/v2';
 
 // -- Access Token if the repository is not public
 // Generate a token in your dashboard and configure it here if your repository is private
