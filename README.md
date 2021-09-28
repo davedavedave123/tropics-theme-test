@@ -1,4 +1,4 @@
 This is a prismic theme template
 
 In terminal run:
-prismic theme --theme-url <github_repository_url>
+prismic theme --theme-url https://github.com/davedavedave123/tropics-theme-test --conf prismic-configuration.js
